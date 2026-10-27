@@ -1,0 +1,27 @@
+# Part 1: AG News classification
+numpy>=1.26
+scipy>=1.12
+scikit-learn>=1.4
+joblib>=1.3
+datasets>=2.19
+pandas>=2.0
+
+# Part 2: LangChain classification agent
+langchain
+langchain-openai
+python-dotenv
+
+# Part 3: Syllabus RAG
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+chromadb
+pypdf
+sentence-transformers
+
+# Part 4: Speech recognition and synthesis
+openai-whisper
+sounddevice
+pyttsx3
